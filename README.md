@@ -13,4 +13,4 @@
   * small_matrix in large_matrix
   * upper_triangular_matrix in large_matrix
 * Pattern of alphabets
-* Numeric Operation( k-(1*1)-(2*2)-(3*3)... )
+* Numeric Operation( k- (1x1)-(2x2)-(3x3)... )
